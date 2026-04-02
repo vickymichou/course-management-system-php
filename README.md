@@ -58,3 +58,9 @@ This project simulates a course management platform where tutors and students ca
 
 This project demonstrates backend development and full-stack system design, focusing on building a functional and structured web application.
 
+---
+## 🌐 Live Demo
+
+This project was deployed and tested on a university server environment.
+
+🔗 https://vimichou.webpages.auth.gr/3976partB
