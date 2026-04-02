@@ -34,6 +34,11 @@ This project simulates a course management platform where tutors and students ca
 
 ---
 
+## 📂 Project Structure
+-PHP files (backend logic)
+-SQL file (database schema)
+
+---
 
 ## 🧠 Key Concepts Demonstrated
 
@@ -46,14 +51,22 @@ This project simulates a course management platform where tutors and students ca
 
 ---
 
-## ⚠️ Setup Notes
+## ⚠️ Deployment Note
 
-- Database credentials have been removed for security reasons  
-- Replace with your own MySQL credentials to run locally  
-- Import the provided `.sql` file to recreate the database  
+This project was originally deployed and tested on a university-hosted server environment.
+
+The repository contains the full source code. Full functionality (e.g. login, database content) requires a PHP server and a MySQL database with the appropriate data.
 
 ---
 
+## ⚙️ How to Run (Locally)
+
+1. Install a local PHP server (e.g. XAMPP)
+2. Import the provided SQL file into MySQL
+3. Update database credentials in `functions.php`
+4. Run the project via `localhost`
+
+---
 ## 🎯 Purpose
 
 This project demonstrates backend development and full-stack system design, focusing on building a functional and structured web application.
